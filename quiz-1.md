@@ -1,3 +1,4 @@
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -28,3 +29,4 @@
     <img src="./img/anyimg.jpg" alt="이미지" />
   </body>
 </html>
+```
